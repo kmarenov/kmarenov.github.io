@@ -1,11 +1,14 @@
 ---
 layout: page
-title: About
+title: About me
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+I am PHP Developer from Russia.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+I am interested in everything related with software development and web development.
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+I read books and blogs about programming. I have visited developers events such as DevConf (the biggest web developers conference in Russia), YaC (Yandex supported
+conference for developers) etc.
+
+I tend to use modern tools and technologies such as PHP 7, Composer, Vagrant, Codeception, PhpStorm, Yii 2 etc.
