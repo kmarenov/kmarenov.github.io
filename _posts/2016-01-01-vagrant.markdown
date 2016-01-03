@@ -128,7 +128,7 @@ Yii2 Starter Kit также содержит готовый [конфиг nginx]
 * Нельзя не упомянуть про [официальную документацию Vagrant](https://docs.vagrantup.com).
 * [PuPHPet](https://puphpet.com) - удобный сервис, который в режиме пошагового мастера позволяет генерировать конфиги Vagrant для развертывания необходимого вам окружения.
 * Базы готовых боксов Vagrant: [официальная](https://atlas.hashicorp.com/boxes/search) и [альтернативная](http://www.vagrantbox.es/).
-* [Homestead](https://laravel.com/docs/5.2/homestead) - Vagrant бокс от разаработчиков фреймворка [Laravel](https://laravel.com/).
+* [Homestead](https://laravel.com/docs/5.2/homestead) - Vagrant бокс от разработчиков фреймворка [Laravel](https://laravel.com/).
  
 Спасибо за внимание!
 
