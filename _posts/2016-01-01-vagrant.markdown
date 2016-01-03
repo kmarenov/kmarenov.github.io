@@ -131,4 +131,4 @@ Yii2 Starter Kit также содержит готовый [конфиг nginx]
  
 Спасибо за внимание!
 
-{% include comments.html %}
+{% include vkcomments.html %}
