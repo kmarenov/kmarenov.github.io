@@ -66,7 +66,7 @@ $ vagrant plugin install vagrant-hostmanager
 
 ### Загрузка файла конфигурации для Vagrant
 Как уже говорилось выше, мы будем разворачивать уже готовое сконфигурированное окружение - [Scotch Box](https://box.scotch.io/).
-В репозитории Scotch Box находится конфигурационный файл `Vagrantfile`, который содержит всю необходимую Vagrant информацию для развертывания и запуска окружения.
+В репозитории Scotch Box находится конфигурационный файл `Vagrantfile`, который содержит необходимую Vagrant информацию для развертывания и запуска окружения.
 Скачаем репозиторий:
 {% highlight bash %}
 $ git clone https://github.com/scotch-io/scotch-box.git
